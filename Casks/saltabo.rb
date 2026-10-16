@@ -2,8 +2,7 @@ cask "saltabo" do
   version "1.3.3"
   sha256 "2b25a9ebe91f102d083074d5ec55dcd5f04316fdd2317ff80ec86eecb359b867"
 
-  url "https://github.com/saltabo/saltabo.github.io/releases/download/v#{version}/Saltabo.zip",
-      verified: "github.com/saltabo/saltabo.github.io/"
+  url "https://github.com/saltabo/saltabo.github.io/releases/download/v#{version}/Saltabo.zip"
   name "Saltabo"
   desc "Window switcher with live previews and Dock previews"
   homepage "https://saltabo.xyz/"
