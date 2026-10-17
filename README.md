@@ -1,6 +1,6 @@
 # Saltabo Homebrew Tap
 
-Homebrew tap for [Saltabo](https://saltabo.xyz), a window switcher for macOS.
+Homebrew tap for [Saltabo](https://saltabo.app), a window switcher for macOS.
 
 ```bash
 brew install --cask saltabo/tap/saltabo
