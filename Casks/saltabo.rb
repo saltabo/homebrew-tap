@@ -1,11 +1,11 @@
 cask "saltabo" do
-  version "1.3.3"
-  sha256 "2b25a9ebe91f102d083074d5ec55dcd5f04316fdd2317ff80ec86eecb359b867"
+  version "1.3.4"
+  sha256 "19095acb992c98f7b92cd8f0e140f9aab5be831f5b568899476916e146b45621"
 
   url "https://github.com/saltabo/saltabo.github.io/releases/download/v#{version}/Saltabo.zip"
   name "Saltabo"
   desc "Window switcher with live previews and Dock previews"
-  homepage "https://saltabo.xyz/"
+  homepage "https://saltabo.app/"
 
   livecheck do
     url "https://saltabo.github.io/saltabo/appcast.xml"
