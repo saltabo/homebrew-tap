@@ -1,6 +1,6 @@
 cask "saltabo" do
-  version "1.3.8"
-  sha256 "e4a80f5bb9491faee10d0e3f371fe02d05194db1376ac4b68038ee598cc7d69b"
+  version "1.3.9"
+  sha256 "dc28befaf06cc13fc33688bfff17d0686f85581faf130c7c10bbe4cbe5c9629a"
 
   url "https://github.com/saltabo/saltabo.github.io/releases/download/v#{version}/Saltabo.zip"
   name "Saltabo"
